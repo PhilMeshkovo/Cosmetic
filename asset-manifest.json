@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cosmetic/static/css/main.fab9c18b.css",
+    "main.js": "/Cosmetic/static/js/main.9a7bfaa5.js",
+    "static/media/line.jpg": "/Cosmetic/static/media/line.1966429276e5155f7006.jpg",
+    "static/media/brows.jpg": "/Cosmetic/static/media/brows.328b86b2288fce335ac1.jpg",
+    "static/media/beauty.jpeg": "/Cosmetic/static/media/beauty.dfb0bc84e36e68d01bc2.jpeg",
+    "static/media/ulya.jpg": "/Cosmetic/static/media/ulya.e802c02b7c75e9efc950.jpg",
+    "index.html": "/Cosmetic/index.html",
+    "main.fab9c18b.css.map": "/Cosmetic/static/css/main.fab9c18b.css.map",
+    "main.9a7bfaa5.js.map": "/Cosmetic/static/js/main.9a7bfaa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab9c18b.css",
+    "static/js/main.9a7bfaa5.js"
+  ]
+}
