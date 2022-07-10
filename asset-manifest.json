@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cosmetic/static/css/main.b700ab26.css",
-    "main.js": "/Cosmetic/static/js/main.0a23516d.js",
+    "main.js": "/Cosmetic/static/js/main.365a5d9d.js",
     "static/media/ulya.jpg": "/Cosmetic/static/media/ulya.e802c02b7c75e9efc950.jpg",
     "index.html": "/Cosmetic/index.html",
     "main.b700ab26.css.map": "/Cosmetic/static/css/main.b700ab26.css.map",
-    "main.0a23516d.js.map": "/Cosmetic/static/js/main.0a23516d.js.map"
+    "main.365a5d9d.js.map": "/Cosmetic/static/js/main.365a5d9d.js.map"
   },
   "entrypoints": [
     "static/css/main.b700ab26.css",
-    "static/js/main.0a23516d.js"
+    "static/js/main.365a5d9d.js"
   ]
 }
