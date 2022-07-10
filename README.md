@@ -1,3 +1,3 @@
 # Meshkovo Village
 
-[Meshkovo-village Demo](https://philmeshkovo.github.io/meshkovo-village/)
+[Cosmetic Demo](https://philmeshkovo.github.io/Cosmetic/)
