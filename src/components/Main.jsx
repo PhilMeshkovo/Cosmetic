@@ -16,10 +16,10 @@ function Main() {
     return <div id="Buttons" className="center pages" style={styles}>
         <a className='red darken-2 phone white-text' href={`tel:  +7 968 538 87 52`}><i
             className="medium material-icons">phone</i>+7 968 538 87 52&nbsp;&nbsp;</a>
-        <Link className="btn waves-effect light-blue darken-3 buttons" to="/prices">&nbsp;&nbsp;&nbsp;&nbsp;Услуги
+        <Link className="btn waves-effect light-blue darken-3 buttons" to="/services">&nbsp;&nbsp;&nbsp;&nbsp;Услуги
             косметологии&nbsp;&nbsp;&nbsp;&nbsp;</Link>
         <Link className="btn waves-effect light-blue darken-3 buttons"
-              to="/services">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Цены&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</Link>
+              to="/prices">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Цены&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</Link>
     </div>;
 }
 

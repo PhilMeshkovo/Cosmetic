@@ -26,7 +26,7 @@ function Services() {
             9. Фракционная мезотерапия<br/>
             10. Ботулинотерапия<br/>
             11. Подбор домашнего ухода по типу кожи и проблеме кожи<br/>
-            КОНСУЛЬТАЦИЯ БЕСПЛАТНАЯ</strong></p>
+            БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</strong></p>
         <Link className="btn waves-effect light-blue darken-1 buttons-main" to="/">На главную страницу</Link>
     </div>
 }
